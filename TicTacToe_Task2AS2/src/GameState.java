@@ -1,7 +1,7 @@
 
 public enum GameState {
-	Playing, 
-	Cross_won,
-	Nought_won,
-	Draw
+	PLAYING, 
+	CROSS_WON,
+	NOUGHT_WON,
+	DRAW
 }
